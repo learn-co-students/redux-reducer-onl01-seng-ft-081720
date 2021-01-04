@@ -2,8 +2,8 @@
 let state = {friends:[]}
 let action = {type: 'ADD_FRIEND',
             friend:{
-                name:name,
-                hometown:hometown ,
+                name:"",
+                hometown:"" ,
                 id: id
             }
             }
